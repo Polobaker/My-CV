@@ -24,6 +24,10 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
+.onglets h3 {
+    font-weight: bold; /* Make h3 bold */
+}
+
 .onglets:hover {
     background-color: white;
     color: black;
@@ -60,3 +64,4 @@ body {
     font-size: 50px;
     color: white;
 }
+
