@@ -25,7 +25,8 @@ body {
 }
 
 .onglets h3 {
-    font-weight: bold; /* Make h3 bold */
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900; /* guaranteed bold */
 }
 
 .onglets:hover {
@@ -64,4 +65,3 @@ body {
     font-size: 50px;
     color: white;
 }
-
